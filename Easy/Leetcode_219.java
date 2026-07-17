@@ -1,3 +1,4 @@
+package Easy;
 import java.util.HashSet;
 
 public class Leetcode_219 {
@@ -26,5 +27,5 @@ public class Leetcode_219 {
 
 return false;
     }
-    
+
 }
