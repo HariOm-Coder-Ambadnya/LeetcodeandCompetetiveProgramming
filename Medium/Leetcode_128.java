@@ -1,4 +1,4 @@
-public class Leetcode_229{
+// public class Leetcode_229{
     public int longestConsecutive(int[] nums) {
 
         HashSet<Integer> set = new HashSet<>();
@@ -20,7 +20,7 @@ public class Leetcode_229{
                     current++;
                     length++;
                 }
-                lcs = Math.max(lcs, length);
+                lcs = Math.max(lcs, length);kllllllllllllll
             }
 
         }
